@@ -1,0 +1,7 @@
+TSL2581.c:14:9:I2C_DEV_Write	2
+TSL2581.c:30:9:I2C_DEV_Read	1
+TSL2581.c:43:6:I2C_DEV_init	1
+TSL2581.c:61:6:Reload_register	1
+TSL2581.c:73:6:SET_Interrupt_Threshold	1
+TSL2581.c:93:6:Read_Channel	1
+TSL2581.c:114:10:calculateLux	12

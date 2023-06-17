@@ -1,0 +1,6 @@
+freertos.c:104:6:MX_FREERTOS_Init	1
+freertos.c:159:6:StartDefaultTask	1
+freertos.c:177:6:StartTaskMonitor	2
+freertos.c:206:6:StartTaskSensor1	1
+freertos.c:235:6:StartTaskSensor2	1
+freertos.c:258:6:HAL_ADC_ConvCpltCallback	2
